@@ -2,7 +2,9 @@
 
 check=0
 
-#Check if Axe.txt exists
+#Check if Mario.txt is in the correct place
+if [ -e ~/20180302-unix-basic/exercise4/World5/Level5-4/Another-Castle/Mario.txt ]; then
+	#Check if Axe.txt exists
 if [ -e ~/20180302-unix-basic/exercise4/World5/Level5-4/Another-Castle/Axe.txt ]; then
 	#Check if Bridge.txt is gone
 	if [ -e ~/20180302-unix-basic/exercise4/World5/Level5-4/Another-Castle/Bridge.txt ]; then
@@ -14,6 +16,9 @@ if [ -e ~/20180302-unix-basic/exercise4/World5/Level5-4/Another-Castle/Axe.txt ]
 	fi
 else
 	echo "There is no Axe!"
+fi
+else
+	echo "Mario isn't here!"
 fi
 
 if [ $check == 1 ]; then
