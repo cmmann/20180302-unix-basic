@@ -3,9 +3,9 @@
 #Automatically check answers for exercise 3
 
 #3. Check for shortest mountain
-if [ -e ~/20180302-unix-basic/exercise3/shortest-mountain/Mont-Blanc.txt ]
+if [ -e ~/20180302-unix-basic/exercise3/shortest-mountain/Mount-Mitchell.txt ]
 then
-	echo "3. Correct! Of the mountains listed, Mont Blanc is the shortest."
+	echo "3. Correct! Of the mountains listed, Mont Mitchell is the shortest."
 	echo
 else
 	echo "3. Not quite. Check to make sure you didn't accidentally rename the mountain while moving it, or check the other mountains to find the shortest."
