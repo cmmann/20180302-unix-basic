@@ -1,0 +1,48 @@
+To defeat Bowser:
+1. Create a file called "Axe.txt" in the same directory as "Bridge.txt"
+2. Delete "Bridge.txt"
+3. Find the absolute path to a file called "Throw-Axe.sh"
+3. Make "Throw-Axe.sh" executable
+4. Change the permissions on "Bowser.txt" to 766
+5. Run "Throw-Axe.sh" from the directory containing "Bowser.txt"
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0kXMMMMMMMMKkKWMMMMMMMMMMMMMMXOkOXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0xlcoxx0NXOxxl;lxKMMMMMMMMMMMXkdc::okXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMWKdc:xk,..;ol;. :0d;cddxkXMMMMMMx'lXNO:.kMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMWo.:ko:,',,',:' cXKx, .',lddkNXxlcxXX0o:lxXNkddddOWMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMWo.';;,,,',:;.';xNKx, ,lc;'';ll;ck0OOOOx:,colclolod0WMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMW0o:,,,;;,';;.':dKNN0x, ,ccc::,..':oddollc,..':xKXKo.lNMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMXxllll:,;:;''.,,..;d0XXKOl,'';:;'......'''''...',;;,,coxc.lNMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMNxc;,'...;,.',,,...;oxOOOo,..,;'.':loc'',,'''',cdkkl::;,,;'.lNWWMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMK;.::'......,clc;'..,:ccc' ....:odOXNX0d;',,,,;ldddl::;.....':clOWMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMK:.:;..'...;:c:;,.........''.. .';d0KXNXOkkkOOkl,;::;'',:ldxkkxocl0MMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMWKd,',,.';;;,''..',,,,,,,;:;,'..  ..'',,,,,o0NWXkc,;;..:lokKK0Ox;.xWMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNXXk'.,'..,'.;oxx,.';;;;:::;;;;,'..  .'...''',o0NXo,;;;,.';lxxdc,.'dNNNNNWMMMMMMMMM
+MMMMMMMMMMMMMMMN0l;;,....'... .,ox,......',,,,,,'....;xxc;;oOo,.'oO0O:';;..';;;,''..,::cco0NWMMMMMMM
+MMMMMMMMMMMMMN0o;coxxodxl'... .,,;okxxxxxl'...'..';;;:llc::clc;;;.'kKc.;:;,...';;,''cxO00x:lXMMMMMMM
+MMMMMMMMMMMMNo'ld;;xk;:k0kc'...,lkOOdooxOOkkx:. .l0Oo;.......':dk,.xXo;;;::;;;:::;,,,:x0ko;oXMMMMMMM
+MMMMMMMMMMMMN:.lOdoOOod0KK0kkkkkdool;...cx0K0ko' ,c:'.:ldddol;.,:..dWN0:';::::::;;;,''cl:l0NWMMMMMMM
+MMMMMMMMMMMMNd,:okO00O0000Okdolc'.'cOx.  ;kK0Ox,   .,ldkkkkkkdc. .;OMMKc';:::::;;,;,'.,o0NWMMMMMMMMM
+MMMMMMMMMMMKkxo'.,cccccccccc:;;,. :xxl. .:kOkoc'    .:oxkkkkkdl..oNWMMKc';::::;;;,,'.,kWWMMMMMMMMMMM
+MMMMMMMXkkxc,'''.'. .'' .,. ,dxdc,. .'.;dkkdc. ..   .,ldkkkkkdl..dWMMMKc';::;;;,,''..,OMMMMMMMMMMMMM
+MMMMMXkl;,,colcldxd,,loccol:. ':lo;;oxxdc::,...,;...,cdkkkkkkdl..oNWMMKc';;;;;,'''cdlldONMMMMMMMMMMM
+MMMMMk.'dxdc,',cdxxo;..c;.'l, ,o:;okkdc'   .',;dOl;,..;lxkkkxoc..lKXNN0:.,;;;,..'lkKXKdldONMMMMMMMMM
+MMMXxc;coc,';okxoc:c;. ';;;;;,,;lxc;:;,,,,,'.. .,;:col..lddollc..lKKKK0d:,,,;,..'cxO00Kk,;0MMMMMMMMM
+MMMO..,:c' .;lo:'.'::'';lk0OOkkxl;;,'';lxkkxo:.  ;ooxo'..,cll:'. 'lkKKKKx,.,;,'..';::::clxXMMMMMMMMM
+MMMk..::'. 'c;'',:c,..,cc;,,;;;,;:ll,',cxkkkkxo:'''',:dc. .... ..'';lkKKOdc,,,;,'...:ookNMMMMMMMMMMM
+MMMXxlc' .';:;'...'cookNKxoool. :d:';cxkdl;lxkkd:.  .:oc..,. .';llc;',ckKKx,',;;,,lkXMMMMMMMMMMMMMMM
+MMMMMk..l:.. .':ooxXMMMMMMMMMNc .'..lkdc'';oxxoo:.   ...,;,,':dddollc;,,lOOdc,''.'kWMMMMMMMMMMMMMMMM
+MMMMMXko:. ,l'.dWMMMMMMMMMMMMNc.;l. .,:, .dxo;...   '::;'',cdxkkkxdoll:..xKKOxdo:,xWMMMMMMMMMMMMMMMM
+MMMMMMMXkxxo:..xMMMMMMMMMMMMMW0xl;..cl'.  ';:. .::::cll; .lkkkkkkkkxdoc;,,ck0000l',cOWWWMMMMMMMMMMMM
+MMMMMMMMMMMKkkOXMMMMMMMMMMMMMMMW0o..''   'l:..';clclodd:..dkkkkkkkkkxocc,  .,''':l. .;:o0WMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd,cl:'..;:,..,odddddxkxc..okkkkkkkxdol:'. .';;. ... ,okx;cKMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN:.ckxd:,.':ccoxxxxxxxdl;..:oxkkkxdolllc:'..;cllllc'..;xd..kNWMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNl.cxkxo;..,:ccccccccclddo:.'loooolllllllc:,.'clodxdooc,.. .lXMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXk;'oxxo:,.,clloodddxxxkkl..;::::cllllllc:' .:lllollolc;,'.cXMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXx' ,:lllc:,...';cllllllllc,.. ..:ooooooc,...;:llllc:;;;,cONWMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMX00k;....,cllllccc:'.. ..,,,,,,'.. .:llloxxolccc,.';;;;;,,,cONWMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMXOo:...,;cdxkxdolllllc:'..ckKNNKkl;,',,;;,;cc:;,,,;:,.. .:kNNNWMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMXOo:ldc:kKl,codxxdllllllllc:.'ONOdcdKOo::kNXx'.kNXk:,,::..oNWMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMx.'l,.;dxdo;..',,,,,,,,,,,,'..OO..ldl,.,odxd:..cxxdl, .'..dWMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMk. ..  ....    ..  ........  ,OO' ...  ......  .....     .xWMMMMMMMMMMMMMMMM
